@@ -1,0 +1,18 @@
+bin/
+obj/
+*.user
+appsettings.Local.json
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
+
+# Local secrets
+.env
+.env.*
+!.env.example
+appsettings.Development.json
